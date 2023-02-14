@@ -3,9 +3,9 @@
 <br/>
 
 # 윈도우함수_순위함수
- ## [1) RANK](#---RANK)
- ## [2) DENSE_RANK](#---DENSE_RANK)
- ## [3) ROW_NUMBER](#---ROW_NUMBER)
+ ## [1) RANK](#1-rank)
+ ## [2) DENSE_RANK](#2-dense_rank-1)
+ ## [3) ROW_NUMBER](#3-row_number-1)
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@ SELECT STUDENT_ID
 
 </br>
 
-### 2) DENSE_RAVK
+### 2) DENSE_RANK
  - 순위가 여러개가 같아도 바로 다움 순위의 값을 보여준다.
 
 <br/>
