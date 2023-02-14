@@ -1,16 +1,17 @@
 
 
-# 윈도우함수_순위함수
- ## [1) RANK](#RANMK)
- ## [2) DENSE_RANK](#DENSE_RANK)
- ## [3) ROW_NUMBER](#ROW_NUMBER)
+<br/>
 
-<br/>
-<br/>
+# 윈도우함수_순위함수
+ ## [1) RANK](#---RANK)
+ ## [2) DENSE_RANK](#---DENSE_RANK)
+ ## [3) ROW_NUMBER](#---ROW_NUMBER)
+
 <br/>
 <br/>
 
 ---------------
+
 <br/>
 
 ### 1) RANK
