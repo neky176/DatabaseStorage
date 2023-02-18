@@ -143,5 +143,10 @@ ORDER BY ORDER_DT, MENU_NAME, SELLER
 `GROUPING을 이용하여  SELLER 컬럼부분에 NULL 대신 'TOTAL'이 출력됨을 확인 할 수 있다.`
 
 </br>
+</br>
+</br>
+</br>
+</br>
 
-> 2022 유선배 SQL 개발자(SQLD) 괴외노트 참고
+
+>>> 2022 유선배 SQL 개발자(SQLD) 괴외노트 참고
