@@ -4,7 +4,7 @@
 
 # 소계/총계 함수
  ## [1) ROLLUP](#1-rollup-1)
- ## [2) CUBE](#2-cube)
+ ## [2) CUBE](#2-cube-1)
  ## [3) GROUPING SETS](#3-grouping-sets-1)
  ## [4) GROUPING](#4-grouping-1)
 
@@ -39,7 +39,7 @@ GROUP BY ROLLUP (ORDER_DT, MENU_NAME, SELLER)
 
 ![rollup01](https://user-images.githubusercontent.com/80929909/219847909-682d7b02-beb5-4f92-80af-1e3a0836c1c7.png)
 
-<span style='background-color:548235'>`주문날짜에 대한 메뉴별 판매한 음료의 소계`</sapn>
+<span style='background-color:#548235'>`주문날짜에 대한 메뉴별 판매한 음료의 소계`</sapn>
 `주문날짜에 대한 판매한 음료의 소계`
 
 `총 판매한 음료의 합계`
