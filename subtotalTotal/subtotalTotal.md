@@ -40,6 +40,9 @@ GROUP BY ROLLUP (ORDER_DT, MENU_NAME, SELLER)
 ![rollup01](https://user-images.githubusercontent.com/80929909/219847909-682d7b02-beb5-4f92-80af-1e3a0836c1c7.png)
 
 <span style="color: #088A08">주문날짜에 대한 메뉴별 판매한 음료의 소계</span>
+
+<span style="color:red">빨간</span> 
+
 `주문날짜에 대한 판매한 음료의 소계`
 
 `총 판매한 음료의 합계`
