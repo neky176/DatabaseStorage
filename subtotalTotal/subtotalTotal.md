@@ -51,7 +51,7 @@ GROUP BY ROLLUP (ORDER_DT, MENU_NAME, SELLER)
 
 </br>
 
-### 1) CUBE
+### 2) CUBE
  - CUBE(A) : A 그룹핑 -> 합계
  - CUBE(A, B) : A, B 그룹핑 / A 그룹핑 / B 그룹핑 -> A소계, B소계 / 합계 
  - CUBE(A, B, C) : A, B, C 그룹핑 / A, B 그룹핑 / A, C 그룹핑 / B, C 그룹핑 -> (A소계, B소계), (A소계), (B소계) / 합계
