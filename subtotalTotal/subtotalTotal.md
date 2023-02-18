@@ -149,4 +149,4 @@ ORDER BY ORDER_DT, MENU_NAME, SELLER
 </br>
 
 
->>> 2022 유선배 SQL 개발자(SQLD) 괴외노트 참고
+> 2022 유선배 SQL 개발자(SQLD) 괴외노트 참고
