@@ -21,7 +21,6 @@
  - ROLL_UP(A, B, C) : A, B, C 그룹핑 -> (A소계, B소계) / 합계
 
 <br/>
-<br/>
 
 ```
 SELECT ORDER_DT
@@ -46,7 +45,6 @@ GROUP BY ROLLUP (ORDER_DT, MENU_NAME, SELLER)
 `총 판매한 음료의 합계`
 
 </br>
-</br>
 
 ---------------
 
@@ -55,9 +53,8 @@ GROUP BY ROLLUP (ORDER_DT, MENU_NAME, SELLER)
 ### 2) CUBE
  - CUBE(A) : A 그룹핑 -> 합계
  - CUBE(A, B) : A, B 그룹핑 / A 그룹핑 / B 그룹핑 -> A소계, B소계 / 합계 
- - CUBE(A, B, C) : A, B, C 그룹핑 / A, B 그룹핑 / A, C 그룹핑 / B, C 그룹핑 -> (A소계, B소계), (A소계), (B소계) / 합계
+ - CUBE(A, B, C) : A, B, C 그룹핑 / A, B 그룹핑 / A, C 그룹핑 / B, C 그룹핑 / A 그룹핑 / B 그룹핑 / C 그룹핑 -> (A소계, B소계), (A소계), (B소계) / 합계
 
-<br/>
 <br/>
 
 ```
@@ -94,7 +91,6 @@ ORDER BY ORDER_DT
  - GROUPING SETS(A, B, ()) : A 그룹핑 / B 그룹핑 ->  합계 
 
 <br/>
-<br/>
 
 ```
 SELECT ORDER_DT
@@ -119,12 +115,14 @@ ORDER BY ORDER_DT, MENU_NAME, SELLER
 `총 판매한 음료의 합계`
 
 </br>
+
+---------------
+
 </br>
 
 ### 4) GROUPING
  - ROLLUP, CUBE, GROUPING SETS 함수를 사용할 때 소계 자리에 NULL 대신에 텍스트를 쓸 수 있게 해주는 함수이다.
 
-<br/>
 <br/>
 
 ```
@@ -145,3 +143,5 @@ ORDER BY ORDER_DT, MENU_NAME, SELLER
 `GROUPING을 이용하여  SELLER 컬럼부분에 NULL 대신 'TOTAL'이 출력됨을 확인 할 수 있다.`
 
 </br>
+
+> 2022 유선배 SQL 개발자(SQLD) 괴외노트 참고
