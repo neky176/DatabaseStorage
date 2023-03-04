@@ -3,7 +3,7 @@
 <br>
 
 # 관계(Relationship)
- ## [1) 관계(Relationship)](#1-관계-Relationship-)
+ ## [1) 관계(Relationship)](##1-관계-Relationship-)
  ## [2) 존재관계, 행위관계]
  ## [3) 표기법](#3-표기법)
 
