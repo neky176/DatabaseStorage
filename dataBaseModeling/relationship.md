@@ -1,20 +1,20 @@
 
 
-<br/>
+<br>
 
 # 관계(Relationship)
- ## [1) 관계(Relationship)](#1-관계Relationship)
- ## [2) 존재관계, 행위관계](#2-존재관계,행위관계)
- ## [3) 표기법](#3-표기법)
+ ## [1) 관계(Relationship)](#1-관계(Relationship))
+ ## [2) 존재관계, 행위관계]
+ ## [3) 표기법]
 
- <br/>
- <br/>
+ <br>
+ <br>
 
 # 식별자(Identitiers)
- ## [1) 식별자(Identitiers)](#1-ec8b9debb384ec9e90identitiers-1)
- ## [2) 주식별자](#2-eca3bcec8b9debb384ec9e90-1)
- ## [3) 분류](#3-ebb684eba598-1)
- ## [4) 식별자와 비식별자 관계](#4-ec8b9debb384ec9e90ec9980-ebb984ec8b9debb384ec9e90-eab480eab384-1)
+ ## [1) 식별자(Identitiers)]
+ ## [2) 주식별자]
+ ## [3) 분류]
+ ## [4) 식별자와 비식별자 관계]
  <br/>
 
 ---------------
