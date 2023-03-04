@@ -3,9 +3,9 @@
 <br/>
 
 # 관계(Relationship)
- ## [1) 관계(Relationship)](#1-eab480eab384relationship-1)
- ## [2) 존재관계, 행위관계](#2-eca1b4ec9eaceab480eab384-ed9689ec9c84eab480eab384-1)
- ## [3) 표기법](#3-ed919ceab8b0ebb295-1)
+ ## [1) 관계(Relationship)](#1-관계relationship)
+ ## [2) 존재관계, 행위관계](#2-존재관계-행위관계)
+ ## [3) 표기법](#3-표기법)
 
  <br/>
  <br/>
